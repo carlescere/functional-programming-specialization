@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../scala/assignment1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../scala/functional-programming-principles/week2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../scala/functional-programming-principles/week3/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../scala/functional-programming-principles/week4/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../scala/functional-programming-principles/week6/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../scala/week1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../scala/week2/funsets" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
