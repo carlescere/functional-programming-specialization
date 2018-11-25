@@ -1,0 +1,8 @@
+console
+import recfun.Main
+:q
+def countChange(money: Int, coins: List[Int]): Int = ???
+def countChange(money: Int, coins: List[Int]): Int = 1
+def countChang(money: Int, coins: List[Int]): Int = 1
+console
+exit

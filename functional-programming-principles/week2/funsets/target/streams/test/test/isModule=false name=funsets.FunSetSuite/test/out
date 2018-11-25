@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) does not contain 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- union compose correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect returns only the common elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff subtracts correctly the elements[0m[0m
