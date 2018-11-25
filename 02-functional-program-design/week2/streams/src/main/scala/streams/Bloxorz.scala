@@ -1,5 +1,6 @@
 package streams
 
+import streams.Solver
 /**
  * A main object that can be used to execute the Bloxorz solver
  */
