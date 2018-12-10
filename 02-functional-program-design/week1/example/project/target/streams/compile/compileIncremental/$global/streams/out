@@ -18,7 +18,7 @@
 [0m[[0minfo[0m] [0mCompiling 8 Scala sources to /Users/carlescere/labs/functional-programming-specialization/02-functional-program-design/week1/example/project/target/scala-2.10/sbt-0.13/classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 7951ab36, interfacing (CompilerInterface) with Scala compiler version 2.10.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler d0b74cf, interfacing (CompilerInterface) with Scala compiler version 2.10.7[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-deprecation[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
@@ -29,7 +29,7 @@
 [0m[[33mwarn[0m] [0mtrait CommonBuild extends Build {[0m
 [0m[[33mwarn[0m] [0m                          ^[0m
 [0m[[33mwarn[0m] [0mone warning found[0m
-[0m[[0mdebug[0m] [0mScala compilation took 14.557318045 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 20.180330256 s[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidating /Users/carlescere/labs/functional-programming-specialization/02-functional-program-design/week1/example/project/Courses.scala...[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/carlescere/labs/functional-programming-specialization/02-functional-program-design/week1/example/project/Courses.scala...[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/carlescere/labs/functional-programming-specialization/02-functional-program-design/week1/example/project/Courses.scala)[0m
